@@ -1,9 +1,5 @@
 ## Hello, I'm Ishani 🦄  
   
-
-<a href="https://github.com/https://github.com/ishaniviz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="[https://linkedin.com/in/www.linkedin.com/in/ishani-sahama-0b289265](https://www.linkedin.com/in/ishani-sahama-0b289265/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
