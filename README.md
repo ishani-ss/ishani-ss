@@ -12,9 +12,9 @@ I'm a former Neuroscientist turned Data Scientist employed within the Government
 
 The hardest part of my role is understanding what business want. The other part is understanding how the machine learning algorithms work to explain it in simple terms to non-technical audiences.
 
-While I can't improve on the hardest part of my role on my own, I can play around with machine learning algorithms to see how they work and what uses they have for day to day analytics. Since I'm obsessed with biomedical science, I thought to do this from a health perspective and chronicle my knowledge discovery here. 
+While I can't improve on the hardest part of my role on my own, I can play around with machine learning algorithms to see how they work and how best I can communicate algorithmic performance and insights through data visualisation.  
 
-If you're interested in AI in Health as well, please enjoy my musings and please do reach out to comment/share/collaborate on ideas.   
+A list of all my projects/musings can be found below ~ 
   
 
 <br/>  
@@ -32,7 +32,7 @@ If you're interested in AI in Health as well, please enjoy my musings and please
 - ⌛ I'd also like to try sentiment analysis on text data to try out the analytic method.
   
 
-- ❓ While I am learning everyday about AI in Health, I am happy to discuss this topic with anyone also interested in this area.   
+- ❓ Recently I finished an excellent book called ["Storytelling with Data"](https://www.storytellingwithdata.com/), with lessons I will employ when communicating with data in this blog.
   
 
 -  💖 Fun fact: My profile pic is my ultimate selfie with filters.   
