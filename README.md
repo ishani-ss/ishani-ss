@@ -12,7 +12,7 @@ I'm a former Neuroscientist turned Data Scientist employed within the Government
 
 The hardest part of my role is understanding what business want. The other part is understanding how the machine learning algorithms work to explain it in simple terms to non-technical audiences.
 
-While I can't improve on the hardest part of my role on my own, I can play around with machine learning algorithms to see how they work and how best I can communicate algorithmic performance and insights through data visualisation.  
+While I can't improve on the hardest part of my role on my own, I can play around with machine learning algorithms to see how they work and how best I can communicate algorithmic performance and insights.  
 
 A list of all my projects/musings can be found below ~ 
   
