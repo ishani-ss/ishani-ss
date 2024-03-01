@@ -14,7 +14,7 @@ The hardest part of my role is understanding what business want. The other part 
 
 While I can't improve on the hardest part of my role on my own, I can play around with machine learning algorithms to see how they work and how best I can communicate algorithmic performance and insights.  
 
-A list of all my projects/musings can be found below ~ 
+A list of all my projects can be found below ~ 
   
 
 <br/>  
