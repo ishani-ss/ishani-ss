@@ -23,14 +23,11 @@ A list of all my projects can be found below ~
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 💭 I’m currently working on recreating a predictive modelling method I used at work. It involves using text data in transcript format to build out a predictive classifier.  
+- 💭 I’m currently working on a research task to understand a new technique called large multimodal modelling (LMMs) and various business applications when using these models. 
   
 
-- ⌛ The next topic I'd like to look at is using topic modelling on text data to glean insights.
+- ⌛ Following the above project, I'd like to get back to assessing the length of text on KeyBERT and downstream predictive modelling performance. 
 
-
-- ⌛ I'd also like to try sentiment analysis on text data to try out the analytic method.
-  
 
 - ❓ Recently I finished an excellent book called ["Storytelling with Data"](https://www.storytellingwithdata.com/), with lessons I will employ when communicating with data in this blog.
   
