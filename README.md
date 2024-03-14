@@ -20,14 +20,11 @@ A list of all my projects can be found below ~
 <br/>  
 
 
-## Rapidfire  
+## Upcoming Project List 
 <table><tr><td valign="top" width="50%">
 
-- 💭 I’m currently working on a research task to understand a new technique called large multimodal modelling (LMMs) and various business applications when using these models. 
-  
-
-- ⌛ Following the above project, I'd like to get back to assessing the length of text on KeyBERT and downstream predictive modelling performance. 
-
+- 💭 Currently, I am assessing whether YAKE or KeyBERT is better at extracting keywords from short text, and how downstream predictive modelling performance for text classification changes when using either of these methods.
+ 
 
 - ❓ Recently I finished an excellent book called ["Storytelling with Data"](https://www.storytellingwithdata.com/), with lessons I will employ when communicating with data in this blog.
   
