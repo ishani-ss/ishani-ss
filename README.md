@@ -20,7 +20,7 @@ A list of all my projects can be found below ~
 <br/>  
 
 
-## Upcoming Project List 
+## Project Updates 
 <table><tr><td valign="top" width="50%">
 
 - 💭 Currently, I am researching large multimodal models (LMMs) for document understanding. A blog with full insights will be released shortly. 
@@ -34,7 +34,9 @@ A list of all my projects can be found below ~
 
 </td><td valign="top" width="50%">
 
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+**Completed Project List**
+
 TBA.  
 <!-- BLOG-POST-LIST:END -->
 
