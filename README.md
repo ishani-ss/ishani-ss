@@ -23,7 +23,7 @@ A list of all my projects can be found below ~
 ## Upcoming Project List 
 <table><tr><td valign="top" width="50%">
 
-- 💭 Currently, I am assessing whether YAKE or KeyBERT is better at extracting keywords from short text, and how downstream predictive modelling performance for text classification changes when using either of these methods.
+- 💭 Currently, I am researching large multimodal models (LMMs) for document understanding. A blog with full insights will be released shortly. 
  
 
 - ❓ Recently I finished an excellent book called ["Storytelling with Data"](https://www.storytellingwithdata.com/), with lessons I will employ when communicating with data in this blog.
@@ -35,7 +35,7 @@ A list of all my projects can be found below ~
 </td><td valign="top" width="50%">
 
 <!-- BLOG-POST-LIST:START -->  
-Watch this space . . .  
+TBA.  
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
