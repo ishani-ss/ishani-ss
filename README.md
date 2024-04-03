@@ -37,7 +37,7 @@ A list of all my projects can be found below ~
 <!-- BLOG-POST-LIST:START -->
 **Completed Project List**
 
-TBA.  
+[Large Multimodal Models for document understanding](https://github.com/ishani-ss/lmms_for_document_understanding)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
