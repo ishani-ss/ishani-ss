@@ -38,6 +38,7 @@ A list of all my projects can be found below ~
 **Completed Project List**
 
 [1. Large Multimodal Models for document understanding](https://github.com/ishani-ss/lmms_for_document_understanding)
+
 2. Random Forests Explained for Legal Audiences
 <!-- BLOG-POST-LIST:END -->
 
