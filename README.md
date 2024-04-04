@@ -29,7 +29,7 @@ A list of all my projects can be found below ~
 - ❓ Recently I finished an excellent book called ["Storytelling with Data"](https://www.storytellingwithdata.com/), with lessons I will employ when communicating with data in this blog.
   
 
--  💖 Fun fact: My profile pic is my ultimate selfie with filters.   
+-  💖 Fun fact: My profile picture is a sagittal T1 MRI at midline, with filters. Or a very colourful headshot.    
 
 
 </td><td valign="top" width="50%">
@@ -37,7 +37,8 @@ A list of all my projects can be found below ~
 <!-- BLOG-POST-LIST:START -->
 **Completed Project List**
 
-[Large Multimodal Models for document understanding](https://github.com/ishani-ss/lmms_for_document_understanding)
+[1. Large Multimodal Models for document understanding](https://github.com/ishani-ss/lmms_for_document_understanding)
+2. Random Forests Explained for Legal Audiences
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
