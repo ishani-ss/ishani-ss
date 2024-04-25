@@ -40,6 +40,8 @@ A list of all my projects can be found below ~
 [*Large Multimodal Models for document understanding](https://github.com/ishani-ss/lmms_for_document_understanding)
 
 [*Random Forests Explained for Legal Audiences](https://github.com/ishani-ss/random_forests_for_legal_audiences)
+
+[*Experimenting with KeyBERT and H2O AutoML](https://github.com/ishani-ss/Experimenting-with-KeyBERT-and-H2O-AutoML/tree/main)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
