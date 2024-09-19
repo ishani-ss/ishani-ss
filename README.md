@@ -41,7 +41,13 @@ A list of all my projects can be found below ~
 
 [*Random Forests Explained for Legal Audiences](https://github.com/ishani-ss/random_forests_for_legal_audiences)
 
+<br/>
+
+**Pending Project List**
+
 [*Experimenting with KeyBERT and H2O AutoML](https://github.com/ishani-ss/Experimenting-with-KeyBERT-and-H2O-AutoML/tree/main)
+
+[*First Principles of Computer Vision Coursework](https://github.com/ishani-ss/First-Principles-Of-Computer-Vision-Coursework)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
