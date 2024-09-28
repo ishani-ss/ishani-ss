@@ -47,7 +47,7 @@ A list of all my projects can be found below ~
 
 [*Experimenting with KeyBERT and H2O AutoML](https://github.com/ishani-ss/Experimenting-with-KeyBERT-and-H2O-AutoML/tree/main)
 
-[*First Principles of Computer Vision Coursework](https://github.com/ishani-ss/First-Principles-Of-Computer-Vision-Coursework)
+[*Large Multimodal Model Experimentation](https://github.com/ishani-ss/Large-Multimodal-Model-Experimentation)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
