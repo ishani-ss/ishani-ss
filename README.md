@@ -23,7 +23,7 @@ A list of all my projects can be found below ~
 ## Project Updates 
 <table><tr><td valign="top" width="50%">
 
-- 💭 Currently, I'm working on an NLP predictive modelling project to test out specific keyword extractors and predictive modelling packages. Full code to be released soon.
+- 💭 Currently, I'm doing some fun research into Large Multimodal Models and optimising performance in this infrastructure.
  
 
 - ❓ Recently I finished an excellent book called ["Storytelling with Data"](https://www.storytellingwithdata.com/), with lessons I will employ when communicating with data in this blog.
