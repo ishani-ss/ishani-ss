@@ -41,6 +41,8 @@ A list of all my projects can be found below ~
 
 [*Random Forests Explained for Legal Audiences](https://github.com/ishani-ss/random_forests_for_legal_audiences)
 
+[*Multi-Label Classification Modelling](https://github.com/ishani-ss/Multi-Label-Classification)
+
 <br/>
 
 **Pending Project List**
